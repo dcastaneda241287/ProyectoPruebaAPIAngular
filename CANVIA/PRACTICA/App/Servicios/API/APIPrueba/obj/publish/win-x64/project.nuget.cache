@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "6IcDwXoFY5cT6ktMBxqzFYrlidgGwPjhHnKnx+ZhqLWoHfC2c0itmMcnlv4idcKIXGHkJrHtxJdT+DjfjQPBNQ==",
+  "success": false,
+  "projectFilePath": "D:\\23.PruebaCANVIA\\CANVIA\\PRACTICA\\App\\Servicios\\API\\APIPrueba\\APIPrueba.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se puede cargar el índice de servicio del origen https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.NETCore.App.Runtime.win-x64"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se puede cargar el índice de servicio del origen https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.WindowsDesktop.App.Runtime.win-x64"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se puede cargar el índice de servicio del origen https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.AspNetCore.App.Runtime.win-x64"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se puede cargar el índice de servicio del origen https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.NETCore.App.Crossgen2.win-x64"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+D:\23.PruebaCANVIA\CANVIA\PRACTICA\App\Servicios\API\APIPrueba\obj\Release\net6.0\win-x64\PubTmp\Out\appsettings.Development.json
+D:\23.PruebaCANVIA\CANVIA\PRACTICA\App\Servicios\API\APIPrueba\obj\Release\net6.0\win-x64\PubTmp\Out\appsettings.json
+D:\23.PruebaCANVIA\CANVIA\PRACTICA\App\Servicios\API\APIPrueba\obj\Release\net6.0\win-x64\PubTmp\Out\APIPrueba.pdb
+D:\23.PruebaCANVIA\CANVIA\PRACTICA\App\Servicios\API\APIPrueba\obj\Release\net6.0\win-x64\PubTmp\Out\Microsoft.Data.SqlClient.SNI.dll
+D:\23.PruebaCANVIA\CANVIA\PRACTICA\App\Servicios\API\APIPrueba\obj\Release\net6.0\win-x64\PubTmp\Out\APIPrueba.exe

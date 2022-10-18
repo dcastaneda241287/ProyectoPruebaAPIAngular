@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mTQrtI5Zb4xv2V5g2JO5S62Pg4MeDPCo4lezb3sR2PViASpZNWbReiRc8aeKcS/ANjdDGjpUboHakLX8f+/spQ==",
+  "dgSpecHash": "z8Zrz7WEV2lrc6zFDtXgnNWLv6QfwsntQ9cW3eKZ0lT5FkYZCgjB7l1GC1+g99ztHoj53OKIFZhIdoRADHRXmg==",
   "success": true,
-  "projectFilePath": "D:\\3.Desa\\2.Desa\\CANVIA\\PRACTICA\\App\\Servicios\\API\\APIPrueba\\APIPrueba.csproj",
+  "projectFilePath": "D:\\23.PruebaCANVIA\\CANVIA\\PRACTICA\\App\\Servicios\\API\\APIPrueba\\APIPrueba.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Cristhofer\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Cristhofer\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

@@ -9668,11 +9668,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\3.Desa\\2.Desa\\CANVIA\\PRACTICA\\App\\Servicios\\API\\APIPrueba\\APIPrueba.csproj",
+      "projectUniqueName": "D:\\23.PruebaCANVIA\\CANVIA\\PRACTICA\\App\\Servicios\\API\\APIPrueba\\APIPrueba.csproj",
       "projectName": "APIPrueba",
-      "projectPath": "D:\\3.Desa\\2.Desa\\CANVIA\\PRACTICA\\App\\Servicios\\API\\APIPrueba\\APIPrueba.csproj",
+      "projectPath": "D:\\23.PruebaCANVIA\\CANVIA\\PRACTICA\\App\\Servicios\\API\\APIPrueba\\APIPrueba.csproj",
       "packagesPath": "C:\\Users\\Cristhofer\\.nuget\\packages\\",
-      "outputPath": "D:\\3.Desa\\2.Desa\\CANVIA\\PRACTICA\\App\\Servicios\\API\\APIPrueba\\obj\\",
+      "outputPath": "D:\\23.PruebaCANVIA\\CANVIA\\PRACTICA\\App\\Servicios\\API\\APIPrueba\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Cristhofer\\AppData\\Roaming\\NuGet\\NuGet.Config",

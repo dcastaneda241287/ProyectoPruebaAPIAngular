@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\23.PruebaCANVIA\Publicado</_PublishTargetUrl>
+    <History>True|2022-10-01T23:20:27.6511276Z;True|2022-10-01T13:26:15.2664419-05:00;False|2022-09-30T17:09:23.3156723-05:00;True|2022-09-30T17:00:20.7769354-05:00;True|2022-09-29T16:29:54.0949238-05:00;</History>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DevConnection">
+      <Value>Server=%28local%29%3bDatabase=BDPrueba%3bTrusted_Connection=True%3bMultipleActiveResultSets=True%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
